@@ -14,7 +14,7 @@ Toggle comments between bright highlights and your colorscheme's defaults.
 With [lazy.nvim](ADD LINK TO lazy.nvim):
 ```lua
 {
-    "y4zt/comment-color.nvim",
+    "n0llid/comment-color.nvim",
     opts = {
         highlight = {
             fg = "#FF5555", -- Bright color
